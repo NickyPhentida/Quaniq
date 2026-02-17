@@ -151,5 +151,12 @@ not merely an asset for trading.
 
 ⸻
 
-👉 Market Access
-(Trading link will be provided once market liquidity is established.)
+👉 Trade QNQ:
+QNQ is live on Polygon via Uniswap.
+
+👉Token Page:
+https://app.uniswap.org/explore/tokens/polygon/0xf8ab848448ed2250fa914567bcdbb553240ef8a1
+
+👉 QNQ Contract Address:
+`0xF8ab848448ED2250fA914567bcdbB553240EF8a1
+
