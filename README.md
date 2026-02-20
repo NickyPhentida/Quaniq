@@ -154,8 +154,8 @@ not merely an asset for trading.
 👉 Trade QNQ:
 QNQ is live on Polygon via Uniswap.
 
-👉Swap instantly on Uniswap (Polygon):
-https://app.uniswap.org/#/swap?chain=polygon&outputCurrency=0xf8ab848448ed2250fa914567bcdbb553240ef8a1
+👉Get QNQ:
+https://app.uniswap.org/#/swap?outputCurrency=0xf8ab848448ed2250fa914567bcdbb553240ef8a1&chain=polygon
 
 👉 QNQ Contract Address:
 0xf8ab848448ed2250fa914567bcdbb553240ef8a1
