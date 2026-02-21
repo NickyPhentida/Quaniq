@@ -1,4 +1,4 @@
-QNQ (Quaniq) — 1-Page Buy Thesis
+QNQ (Quaniq) : One-Page Structural Thesis
 
 A Token Designed for Future Systems, Not Short-Term Narratives
 
