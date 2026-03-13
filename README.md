@@ -1,8 +1,8 @@
-QNQ (Quaniq)
+Structure Overview
 
 A Structural Token for the Next Generation of Software
 
-Token Overview
+----
 
 Token Name: Quaniq
 Symbol: QNQ
@@ -17,6 +17,7 @@ Locked Reserve: 833,091,422 QNQ
 
 Remaining Supply Allocation:
 Reserved for future ecosystem distribution, liquidity expansion, and long-term operational support.
+
 ⸻
 
 Where Markets and Software Converge
