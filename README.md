@@ -1,8 +1,22 @@
 QNQ (Quaniq)
-Structural Overview
 
 A Structural Token for the Next Generation of Software
 
+Token Overview
+
+Token Name: Quaniq
+Symbol: QNQ
+Network: Polygon
+Standard: ERC-20
+
+Total Supply: 1,000,000,000 QNQ
+Circulating Supply: 20,000,000 QNQ
+
+Locked Reserve: 833,091,422 QNQ
+(Locked until 1 March 2027)
+
+Remaining Supply Allocation:
+Reserved for future ecosystem distribution, liquidity expansion, and long-term operational support.
 ⸻
 
 Where Markets and Software Converge
