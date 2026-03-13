@@ -2,8 +2,6 @@ Structure Overview
 
 A Structural Token for the Next Generation of Software
 
-----
-
 Token Name: Quaniq
 Symbol: QNQ
 Network: Polygon
