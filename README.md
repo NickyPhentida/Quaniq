@@ -55,6 +55,10 @@ Real-World Integration Trajectory
 
 The first domain under development focuses on software systems for pet owners — an ecosystem defined by recurring engagement, identity continuity, and long-term user relationships.
 
+The initial application being developed is a blockchain-aware assistant platform designed to help pet owners manage identity records, veterinary documentation, and international travel preparation for their animals.
+
+Within this environment, QNQ functions as the native token used for accessing certain platform features, verification processes, and ecosystem services.
+
 This serves as an initial integration environment where QNQ can function as a structural system component rather than merely a tradable asset.
 
 Beyond this domain, QNQ’s architecture supports broader applications, including:
