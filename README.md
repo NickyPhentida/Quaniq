@@ -1,16 +1,16 @@
-Structure Overview
+Quaniq Structure Overview
 
 A Structural Token for the Next Generation of Software
 
-• Token Name: Quaniq
-• Symbol: QNQ
-• Network: Polygon
-• Standard: ERC-20
+● Token Name: Quaniq
+● Symbol: QNQ
+● Network: Polygon
+● Standard: ERC-20
 
-• Total Supply: 1,000,000,000 QNQ
-• Circulating Supply: 20,000,000 QNQ
+● Total Supply: 1,000,000,000 QNQ
+● Circulating Supply: 20,000,000 QNQ
 
-• Locked Reserve: 833,091,422 QNQ 
+● Locked Reserve: 833,091,422 QNQ 
 (Locked until 1 March 2027)
 
 Remaining Supply Allocation:
